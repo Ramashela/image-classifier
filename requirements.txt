@@ -1,5 +1,0 @@
-Flask==3.0.3
-tflite-runtime==2.14.0
-Pillow==10.4.0
-numpy>=1.26,<2.0
-gunicorn==22.0.0
